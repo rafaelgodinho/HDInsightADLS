@@ -17,5 +17,5 @@ The script deploys/creates:
 ## Usage
 
 ```
-./deploy.sh \<resource group name> \<location> \<application name> \<certificate password>
+./deploy.sh <resource group name> <location> <application name> <certificate password>
 ```
